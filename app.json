@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "perfectapp",
+    "slug": "perfectapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "perfectapp"
+}
